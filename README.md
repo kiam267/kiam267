@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kiamhasan.netlify.app/](https://kiamhasan.netlify.app/)
 
-- 💬 Ask me about **Javascrpt | React | J-query | MERN | PHP**
+- 💬 Ask me about **Javascript | React | J-query | MERN | PHP**
 
 - 📫 How to reach me **kiamhasan267@gmail.com**
 
