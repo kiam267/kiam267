@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **NextJS,Typescript**
   <video class="hidden-video" controls autoplay>
-    <source src="https://github.com/user-attachments/assets/01ab7849-05cc-42e7-8a39-a7a6676ee4ce" type="video/mp4">
+    <source src="http://surl.li/spoxze" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 
