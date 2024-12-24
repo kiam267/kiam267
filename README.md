@@ -19,8 +19,8 @@
 - ⚡ Fun fact **I think I am a very quiet man😊**
 
 
-<h3 align="right">🎯Frontend Development</h3>
-<p align="right">
+<h3 align="left">🎯Frontend Development</h3>
+<p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000" alt="bootstrap" width="40" height="40"/>
   </a>
@@ -54,8 +54,8 @@
 </p>
 
 
-<h3 align="center">🎯Backend Devlopment</h3>
-<p align="center"> 
+<h3 align="left">🎯Backend Devlopment</h3>
+<p align="left"> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="nodejs" width="40" height="40"/> 
   </a> 
