@@ -18,14 +18,6 @@
 
 - ⚡ Fun fact **I think I am a very quiet man😊**
 
-<h3>
-  <img height="20" width="20" src="https://img.icons8.com/?size=100&id=nHu7dMNox1kB&format=png&color=000000" alt="dashboard"/> 
-  Dashboard
-</h3>
-<p>
-  <img align="center" width="350" height="323" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiam267&show_icons=true&locale=en&layout=compact" alt="kiam267" /> 
-  <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=kiam267&" alt="kiam267" />
-</p>
 
 
 
@@ -121,6 +113,16 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="git" width="40" height="40"/> 
   </a>
+</p>
+
+
+<h3>
+  <img height="20" width="20" src="https://img.icons8.com/?size=100&id=nHu7dMNox1kB&format=png&color=000000" alt="dashboard"/> 
+  Dashboard
+</h3>
+<p>
+  <img align="center" width="350" height="323" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiam267&show_icons=true&locale=en&layout=compact" alt="kiam267" /> 
+  <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=kiam267&" alt="kiam267" />
 </p>
 
 
