@@ -4,22 +4,21 @@
 <h3 align="center">Web developers combine creative and technical skills to bring a website.</h3>
 
 
-<p align="left" > <img src="https://komarev.com/ghpvc/?username=kiam267&label=Profile%20views&color=0e75b6&style=flat" alt="kiam267" /> </p>
+<p align="left" >
+  <img src="https://komarev.com/ghpvc/?username=kiam267&label=Profile%20views&color=0e75b6&style=flat" alt="kiam267" />
+</p>
 
-- 🔭 I’m currently working on [Portfolio](fiver)
+- 🧑‍💻 I’m currently working on Messanger Application - 25/12/2024
 
-- 🌱 I’m currently learning **NextJS,Typescript**
+- 📚 I’m currently learning **Python**
   
-- 👨‍💻 All of my projects are available at [https://kiamhasan.netlify.app/](https://kiamhasan.netlify.app/)
-
-- 💬 Ask me about **Javascript | React | J-query | MERN | PHP**
+- 📦 All of my projects are available at [**Profile**](https://portfolio-kiam-3d.vercel.app/)
 
 - 📫 How to reach me **kiamhasan267@gmail.com**
 
-- ⚡ Fun fact **I think I am a very quiet man😊**
-
-
-
+<P>
+🔆 For a long time, I have been trying to learn all the concepts, but I've realized that real-life programming isn't necessary for everything. It's important to focus on which topics you should learn and which you can skip. I suggest that you learn the documentation, as it will save you time, improve your communication skills, and enhance your problem-solving abilities.
+</P>
 
 <h3 align="left">🎯Frontend Development</h3>
 <p align="left">
@@ -98,7 +97,8 @@
   </a> 
   <a href="https://orm.drizzle.team/" target="_blank" rel="noreferrer"> 
     <img src="https://avatars.githubusercontent.com/u/108468352?v=4" alt="drizzle" width="40" height="40"/> 
-  </a> 
+  </a>
+  
 </p>
 
 <h3 align="left">🎯Serverless Development</h3>
@@ -123,13 +123,18 @@
 <p>
   <img align="center" width="250" height="323" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiam267&show_icons=true&locale=en&layout=compact" alt="kiam267" /> 
   <img align="center" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=kiam267&" alt="kiam267" />
+  <img align="center"  width="335" src="https://github-readme-stats.vercel.app/api?username=kiam267&show_icons=true&locale=en" alt="kiam267" />
 </p>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/shariarkabir.kiam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shariarkabir.kiam/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://fb.com/https://www.facebook.com/shariarkabir.kiam/" target="blank">
+    <img align="center" src="https://img.icons8.com/?size=100&id=z657ovoGgS2o&format=png&color=000000" alt="facebook" height="40" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/shariar-kobir-kiam" target="blank">
+    <img align="center" src="https://img.icons8.com/?size=100&id=kBCrQMzpQDLQ&format=png&color=000000" alt="linkedin" height="40" width="40" />
+  </a>
 </p>
 
-
+<p align="center">©️ 2024 Kiam. All rights reserved</p>
 
