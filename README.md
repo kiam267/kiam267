@@ -128,9 +128,6 @@
 
 
 <p align="center">
-  <a href="https://fb.com/https://www.facebook.com/shariarkabir.kiam/" target="blank">
-    <img align="center" src="https://img.icons8.com/?size=100&id=z657ovoGgS2o&format=png&color=000000" alt="facebook" height="40" width="40" />
-  </a>
   <a href="https://www.linkedin.com/in/shariar-kobir-kiam" target="blank">
     <img align="center" src="https://img.icons8.com/?size=100&id=kBCrQMzpQDLQ&format=png&color=000000" alt="linkedin" height="40" width="40" />
   </a>
