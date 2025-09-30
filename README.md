@@ -131,12 +131,11 @@
   <a href="https://www.linkedin.com/in/shariar-kobir-kiam" target="blank">
     <img align="center" src="https://img.icons8.com/?size=100&id=kBCrQMzpQDLQ&format=png&color=000000" alt="linkedin" height="40" width="40" />
   </a>
-</p>
-<p align="center">
-  <a href="https://calendly.com/kiamhasan267/30min" target="blank">
-   <img width="64" height="64" src="https://img.icons8.com/external-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto/64/external-calender-time-and-date-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto.png" alt="external-calender-time-and-date-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto"/>
+    <a href="https://calendly.com/kiamhasan267/30min" target="blank">
+   <img width="40" height="40" src="https://img.icons8.com/external-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto/64/external-calender-time-and-date-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto.png" alt="external-calender-time-and-date-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto"/>
   </a>
 </p>
+
 
 <p align="center">©️ 2024 Kiam. All rights reserved</p>
 
