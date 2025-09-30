@@ -132,7 +132,7 @@
     <img align="center" src="https://img.icons8.com/?size=100&id=kBCrQMzpQDLQ&format=png&color=000000" alt="linkedin" height="40" width="40" />
   </a>
     <a href="https://calendly.com/kiamhasan267/30min" target="blank">
-   <img width="40" height="40" src="https://img.icons8.com/external-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto/64/external-calender-time-and-date-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto.png" alt="external-calender-time-and-date-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto"/>
+<img width="40" height="40" src="https://img.icons8.com/fluency/48/calendar--v1.png" alt="calendar--v1"/>
   </a>
 </p>
 
