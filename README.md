@@ -121,9 +121,7 @@
   Dashboard
 </h3>
 <p>
-  <img align="center" width="250" height="323" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiam267&show_icons=true&locale=en&layout=compact" alt="kiam267" /> 
   <img align="center" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=kiam267&" alt="kiam267" />
-  <img align="center"  width="335" src="https://github-readme-stats.vercel.app/api?username=kiam267&show_icons=true&locale=en" alt="kiam267" />
 </p>
 
 
