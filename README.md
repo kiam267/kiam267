@@ -12,7 +12,7 @@
 
 - 📚 I’m currently learning **Go**
   
-- 📦 All of my projects are available at [**Profile**](www.linkedin.com/in/abid-hassan-kiam)
+- 📦 All of my projects are available at [**Profile**](https://www.kiamhassan.me)
 
 - 📫 How to reach me **kiamhasan267@gmail.com**
 
@@ -20,17 +20,20 @@
 🔆 For a long time, I have been trying to learn all the concepts, but I've realized that real-life programming isn't necessary for everything. It's important to focus on which topics you should learn and which you can skip. I suggest that you learn the documentation, as it will save you time, improve your communication skills, and enhance your problem-solving abilities.
 </P>
 
-#### comming...
+
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shariar-kobir-kiam" target="blank">
-    <img align="center" src="https://img.icons8.com/?size=100&id=kBCrQMzpQDLQ&format=png&color=000000" alt="linkedin" height="40" width="40" />
+  <a href="https://www.linkedin.com/in/shariar-kobir-kiam" target="_blank" style="display:inline-block;">
+    <img src="https://img.icons8.com/?size=100&id=kBCrQMzpQDLQ&format=png&color=000000" width="25"/>
   </a>
-    <a href="https://calendly.com/kiamhasan267/30min" target="blank">
-<img width="40" height="40" src="https://img.icons8.com/fluency/48/calendar--v1.png" alt="calendar--v1"/>
+  <a href="https://calendly.com/kiamhasan267/30min" target="_blank" style="display:inline-block; margin-left:8px;">
+    <img src="https://img.icons8.com/fluency/48/calendar--v1.png" width="25"/>
+  </a>
+    <a href="https://x.com/kiam267" target="_blank" style="display:inline-block; margin-left:8px;">
+    <img src="https://img.icons8.com/?size=100&id=01GWmP9aUoPj&format=png&color=339AF0" width="25"/>
+  </a>
+    <a href="https://www.instagram.com/ahkiamdeveloper" target="_blank" style="display:inline-block; margin-left:8px;">
+    <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" width="25"/>
   </a>
 </p>
-
-
-<p align="center">©️ 2024 Kiam. All rights reserved</p>
 
