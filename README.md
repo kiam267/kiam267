@@ -23,7 +23,7 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shariar-kobir-kiam" target="_blank" style="display:inline-block;">
+  <a href="https://www.linkedin.com/in/abid-hassan-kiam" target="_blank" style="display:inline-block;">
     <img src="https://img.icons8.com/?size=100&id=kBCrQMzpQDLQ&format=png&color=000000" width="25"/>
   </a>
   <a href="https://calendly.com/kiamhasan267/30min" target="_blank" style="display:inline-block; margin-left:8px;">
